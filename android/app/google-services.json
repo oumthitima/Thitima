@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1098758877810",
+    "firebase_url": "https://onlinefirebase-c0650-default-rtdb.firebaseio.com",
+    "project_id": "onlinefirebase-c0650",
+    "storage_bucket": "onlinefirebase-c0650.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098758877810:android:0606338a45d094085848eb",
+        "android_client_info": {
+          "package_name": "com.example.onlinethitima_secb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCby-8sCbEZaWUFThgGwojOeXt67GB54_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
